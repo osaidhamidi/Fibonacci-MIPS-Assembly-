@@ -12,6 +12,3 @@ Enter n: 6
 Fib(n) = 8
 ```
 
-## Files  
-- `fib_iterative.asm` → Iterative Fibonacci implementation.  
-- `fib_recursive.asm` → Recursive Fibonacci implementation.  
